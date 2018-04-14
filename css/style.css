@@ -8,6 +8,7 @@
 
 body {
   background-color: #56bb03;
+  background-image: url(../img/burns.jpg);
   font-family: "Open Sans", sans-serif;
   color: #FFF;
   overflow-x: hidden; }
